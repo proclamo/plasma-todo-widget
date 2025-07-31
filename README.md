@@ -9,4 +9,4 @@ A very simple TODO for running as a KDE's Plasma 6 widget
 plasmapkg2 -i .
 ```
 
-Notes> you need to have installed the `plasma-sdk` package.
+Notes: you need to have installed the `plasma-sdk` package.
