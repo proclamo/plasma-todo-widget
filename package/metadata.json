@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "proclamo@gmail.com",
+                "Name": "Proclamo"
+            }
+        ],
+        "Category": "Productivity",
+        "Description": "A simple TODO list widget for Plasma 6",
+        "Icon": "view-task",
+        "Id": "com.proclamo.todo",
+        "License": "GPL-2.0+",
+        "Name": "TODO Widget",
+        "Version": "1.0",
+        "Website": "",
+        "BugReportUrl": ""
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
